@@ -7,10 +7,10 @@ public class Test {
         System.out.println("ada2");
         System.out.println("1112");
         System.out.println("222");
-        System.out.println("223");
+        System.out.println("223342");
 		System.out.println("133331");
 		System.out.println("141121111");
-		System.out.println("v10081");
+		System.out.println("v100812");
 	}
 
 }
